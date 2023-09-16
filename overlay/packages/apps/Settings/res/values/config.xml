@@ -25,4 +25,7 @@
        have distinct intensity levels -->
   <bool name="config_vibration_supports_multiple_intensities">true</bool>
 
+  <!-- Pocket Lock -->
+    <bool name="config_pocketModeSupported">true</bool>
+
 </resources>

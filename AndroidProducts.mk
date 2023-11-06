@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_RMX2170.mk
+    $(LOCAL_DIR)/ancient_RMX2170.mk
     
 COMMON_LUNCH_CHOICES := \
-    lineage_RMX2170-user \
-    lineage_RMX2170-userdebug \
-    lineage_RMX2170-eng    
+    ancient_RMX2170-user \
+    ancient_RMX2170-userdebug \
+    ancient_RMX2170-eng    

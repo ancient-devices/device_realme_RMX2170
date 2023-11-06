@@ -108,7 +108,4 @@ void vendor_load_properties()
     property_override("ro.boot.vbmeta.device_state", "locked");
     property_override("ro.oem_unlock_supported", "0");
     property_override("vendor.boot.vbmeta.device_state", "locked");
-
-    property_override("ro.rising.chipset", "Qualcomm® Snapdragon™ 720G");
-    property_override("ro.rising.maintainer", "Balay Bera");
 }
